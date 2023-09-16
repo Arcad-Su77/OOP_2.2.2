@@ -1,7 +1,10 @@
-public class Truck {
+public final class Truck extends AvtoMotoBicicleTruck {
 
-    public String modelName;
-    public int wheelsCount;
+    public Truck(String name, int i) {
+        super();
+        this.setModelName(name);
+        this.setWheelsCount(i);
+    }
 
     public void updateTyre() {
         System.out.println("Меняем покрышку");

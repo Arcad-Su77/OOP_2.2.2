@@ -1,7 +1,9 @@
-public class Car {
-
-    public String modelName;
-    public int wheelsCount;
+public class Car extends AvtoMotoBicicleTruck {
+    public Car(String name, int i) {
+        super();
+        this.setModelName(name);
+        this.setWheelsCount(i);
+    }
 
     public void updateTyre() {
         System.out.println("Меняем покрышку");
