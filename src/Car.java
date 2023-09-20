@@ -8,7 +8,7 @@ public class Car extends AvtoMotoBicicleTruck {
     }
 
     public void updateTyre(int i) {
-        System.out.println("Меняем покрышку" + tyre[i]);
+        System.out.println("Меняем покрышку " + tyre[i]);
     }
 
     public void checkEngine() {
