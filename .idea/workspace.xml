@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="720f2801-900b-4c2e-938a-705f6068aa11" name="Changes" comment="START">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServiceStationInterfice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AvtoMotoBicicleTruck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AvtoMotoBicicleTruck.java" afterDir="false" />
+    <list default="true" id="720f2801-900b-4c2e-938a-705f6068aa11" name="Changes" comment="Interfice">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ServiceStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServiceStationInterfice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceStationInterfice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +34,26 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Arcad-Su77"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Arcad-Su77" />
+        <option name="repository" value="OOP_2.2.2" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="92dd986e-6dc8-4f7d-b137-771f58f9e6b8" />
+        <option name="url" value="https://github.com/Arcad-Su77/OOP_2.2.2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -90,7 +107,7 @@
       <workItem from="1694959319869" duration="883000" />
       <workItem from="1695042109689" duration="1502000" />
       <workItem from="1695120264646" duration="1438000" />
-      <workItem from="1695217839071" duration="2102000" />
+      <workItem from="1695217839071" duration="12141000" />
     </task>
     <task id="LOCAL-00001" summary="START">
       <option name="closed" value="true" />
@@ -100,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694890558828</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Interfice">
+      <option name="closed" value="true" />
+      <created>1695223507029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695223507029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="START" />
-    <option name="LAST_COMMIT_MESSAGE" value="START" />
+    <MESSAGE value="Interfice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfice" />
   </component>
 </project>
