@@ -15,6 +15,6 @@ public final class Truck extends AvtoMotoBicicleTruck {
     }
 
     public void checkTrailer() {
-        System.out.println("Проверяем прицеп");
+        System.out.println("Проверяем прицеп по чек-листу для грузовика ");
     }
 }

@@ -17,4 +17,5 @@ public abstract class AvtoMotoBicicleTruck {
     public void setWheelsCount(int wheelsCount) {
         this.wheelsCount = wheelsCount;
     }
+
 }

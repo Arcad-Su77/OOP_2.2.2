@@ -9,4 +9,6 @@ public class Bicycle extends AvtoMotoBicicleTruck {
     public void updateTyre() {
         System.out.println("Меняем покрышку");
     }
+
+
 }
